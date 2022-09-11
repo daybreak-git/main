@@ -525,7 +525,7 @@ rtp://@232.84.3.172:10494
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/25/1tv_Russia_logo.png/revision/latest/scale-to-width-down/340?cb=20220217141930&path-prefix=vi",OPT1
 rtp://@232.84.2.128:8352
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/Paramount_800x4501.jpg" tvg-id="paramouthd",Paramount Channel
-https://api.vthanhtivi.pw/v1/getlink/tv360_s2/150/2
+http://live.vthanhtivi.pw:8080/paramount
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="https://escbubble.com/wp-content/uploads/2014/08/Russia-RTR-TV.gif",Россия PTP
 rtp://@232.84.2.127:8544
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="http://nettvpro.live/uploads/allimg/21/1-2104091504520-L.jpg",Rai
