@@ -1,18 +1,18 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1 catchup="append"
 #EXTM3U url-tvg="http://trada.info/epg.xml" tvg-shift=0 m3uautoload=1 catchup="append"
 
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg" tvg-id="vtv1hd",VTV1 (HD 8Mbps)
-rtp://@232.84.1.117:10254
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg" tvg-id="vtv2hd",VTV2 (HD 8Mbps)
-rtp://@232.84.2.31:10594
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_150173501764.jpg" tvg-id="vtv3hd",VTV3 (HD 8Mbps)
-rtp://@232.84.1.118:10260
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4_15089873636.jpg" tvg-id="vtv4hd",VTV4 (HD 8Mbps)
-rtp://@232.84.3.106:10600
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_150173503028.jpg" tvg-id="vtv5hd",VTV5 (HD 8Mbps)
-rtp://@232.84.2.33:10606
-#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv6-hd_150173503925.jpg" tvg-id="vtv6hd",VTV6 (HD 8Mbps)
-rtp://@232.84.1.119:10266
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg" tvg-id="vtv1hd",VTV1 (HD 6.5Mbps)
+rtp://@232.84.3.247:11404
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg" tvg-id="vtv2hd",VTV2 (HD 6.5Mbps)
+rtp://@232.84.3.248:11410
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_150173501764.jpg" tvg-id="vtv3hd",VTV3 (HD 6.5Mbps)
+rtp://@232.84.3.249:11416
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4_15089873636.jpg" tvg-id="vtv4hd",VTV4 (HD 6.5Mbps)
+rtp://@232.84.3.250:11422
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_150173503028.jpg" tvg-id="vtv5hd",VTV5 (HD 6.5Mbps)
+rtp://@232.84.3.251:11428
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv6-hd_150173503925.jpg" tvg-id="vtv6hd",VTV6 (HD 6.5Mbps)
+rtp://@232.84.3.252:11434
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv7-hd_158530348557.png" tvg-id="vtv7hd",VTV7 (HD 8Mbps)
 rtp://@232.84.2.202:10996
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_150173505324.jpg" tvg-id="vtv8hd",VTV8 (HD 8Mbps)
@@ -101,12 +101,10 @@ rtp://@232.84.1.61:8340
 rtp://@232.84.3.193:11080
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png" tvg-id="vtc13hd",VTC13 (HD 8Mbps)
 rtp://@232.84.1.74:8418
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png" tvg-id="vtc14hd",VTC14 HD
-http://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
-#rtp://@232.84.1.216:9270
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png" tvg-id="vtc16",VTC16 HD
-https://api.vthanhtivi.pw/v1/getlink/vieon/vtc16-hd
-#rtp://@232.84.1.215:9264
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png" tvg-id="vtc14hd",VTC14 (HD 8Mbps)
+rtp://@232.84.3.216:11218
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png" tvg-id="vtc16",VTC16 (HD 8Mbps)
+rtp://@232.84.3.98:11458
 #EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg" tvg-id="vovtvhd",VOVTV
 rtp://@232.84.1.46:8256
 
@@ -271,9 +269,8 @@ https://vips-livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-2_156455535103.jpg",Đà Nẵng 2
 https://vips-livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
 #rtp://@232.84.3.122:8856
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dak-lak_145880969366.jpg",Đắk Lắk HD
-http://103.90.220.236/drtlive/tv1live-transmux.m3u8
-#rtp://@232.84.1.149:8868
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dak-lak_145880969366.jpg",Đắk Lắk (HD 4Mbps)
+rtp://@232.84.3.99:11464
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564368053/cmc_new/img.live_channel/0/0/0/0/41.jpg",Đắk Nông HD
 https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
 #rtp://@232.84.3.140:8874
@@ -365,9 +362,8 @@ rtp://@232.84.1.249:10984
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quang-tri_150339367566.png",Quảng Trị
 https://vips-livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
 #rtp://@232.84.2.105:9066
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_soc-trang_164664656851.jpg" tvg-id="soctrang",STV1
-https://vips-livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
-#rtp://@232.84.2.103:9072
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_soc-trang_164664656851.jpg" tvg-id="soctrang",STV1 (HD 6Mbps)
+rtp://@232.84.3.97:11470
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_son-la_145881052785.jpg",Sơn La
 http://118.107.85.4:1935/live/smil:STV.smil/chunklist_b1384000.m3u8
 #rtp://@232.84.1.184:9078
@@ -462,8 +458,8 @@ rtp://@232.84.3.103:10840
 rtp://@232.84.3.117:10654
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_channel-newsasia_151495143843.png" tvg-name="ChannelNewsAsia",CNA (HD 6.5Mbps)
 rtp://@232.84.2.55:10540
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://nettvpro.live/uploads/allimg/21/1-2103292355060-L.jpg",Clubbing TV (HD 5Mbps)
-rtp://@232.84.3.194:11086
+#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="http://nettvpro.live/uploads/allimg/21/1-2103292355060-L.jpg",Clubbing TV (HD 8Mbps)
+rtp://@232.84.3.96:11476
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnn_146581309815.png" tvg-id="cnn",CNN (HD 6Mbps)
 rtp://@232.84.3.153:10690
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_160135703111.png" tvg-id="davinci",Da Vinci (HD 8Mbps)
