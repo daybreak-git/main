@@ -135,18 +135,17 @@ http://111.12.110.95:6610/PLTV/77777777/224/3221225969/index.m3u8?servicetype=1&
 #EXTINF:-1 tvg-id="50" tvg-logo="https://www.nettvpro.live/uploads/18/1-1P930232F1108.jpg" group-title="卫视频道",江西卫视
 http://111.12.110.95:6610/PLTV/77777777/224/3221225957/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="51" tvg-logo="https://nettvpro.live/uploads/19/1-1Z21216160SO.jpg" group-title="卫视频道",吉林卫视
-http://39.134.65.216/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227099/index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-logo="https://nettvpro.live/uploads/19/1-1Z212160P5C7.jpg" group-title="卫视频道",内蒙古卫视
 http://111.12.110.95:6610/PLTV/77777777/224/3221225751/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="53" tvg-logo="https://nettvpro.live/uploads/19/1-1Z2201GR1F5.jpg" group-title="卫视频道",宁夏卫视
 http://120.253.104.16:808/hls/286/index.m3u8
-#http://111.13.42.234/TVOD/88888888/224/3221226413/1.m3u8
 #EXTINF:-1 tvg-id="54" tvg-logo="https://nettvpro.live/uploads/19/1-1Z41G40J2110.jpg" group-title="卫视频道",山西卫视
 http://liveflash.sxrtv.com/live/sxwshd.m3u8
 #EXTINF:-1 tvg-id="55" tvg-logo="https://nettvpro.live/uploads/170103/1-1F103130AAU.jpg" group-title="卫视频道",陕西卫视
 http://101.33.26.234/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-logo="https://nettvpro.live/uploads/18/1-1P604125201C0.jpg" group-title="卫视频道",四川卫视
-http://39.134.65.216/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226096/index.m3u8
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227182/index.m3u8
 #EXTINF:-1 tvg-id="57" tvg-logo="https://nettvpro.live/uploads/18/1-1PHG60450U0.jpg" group-title="卫视频道",新疆卫视
 http://203.205.137.156/livehyw5.chinamcache.com/hyw/zb01.m3u8
 #EXTINF:-1 tvg-id="58" tvg-logo="https://nettvpro.live/uploads/170101/1-1F1011J050605.jpg" group-title="卫视频道",云南卫视
@@ -156,7 +155,7 @@ http://[2409:8087:5011:1020::2f]/180000001002/00000001000000000090000000215609/m
 #EXTINF:-1 tvg-id="60" tvg-logo="https://nettvpro.live/uploads/18/1-1P521150339B7.jpg" group-title="卫视频道",大湾区卫视
 https://www.nettvpro.live/hls/itouch.php?id=1197
 #EXTINF:-1 tvg-id="61" tvg-logo="https://www.nettvpro.live/uploads/18/1-1PHG51212955.jpg" group-title="卫视频道",兵团卫视
-http://111.13.42.236/TVOD/88888888/224/3221226541/1.m3u8
+http://111.12.110.95::6610/PLTV/77777777/224/3221225795/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="63" tvg-logo="https://nettvpro.live/uploads/18/1-1P319114F2353.jpg" group-title="卫视频道",延边卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:-1 tvg-id="65" tvg-logo="https://nettvpro.live/uploads/19/1-1Z41G4364G33.jpg" group-title="卫视频道",黄河卫视
@@ -167,7 +166,7 @@ http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-logo="https://nettvpro.live/uploads/18/1-1P604203405305.jpg" group-title="卫视频道",金鹰卡通
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-id="70" tvg-logo="https://nettvpro.live/uploads/18/1-1P604124640R5.jpg" group-title="卫视频道",康巴卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221226207/index.m3u8
+http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225856/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-logo="https://nettvpro.live/uploads/18/1-1PHG21032944.jpg" group-title="卫视频道",西藏卫视
 http://111.13.42.230/TVOD/88888888/224/3221226428/1.m3u8
 #EXTINF:-1 tvg-id="72" tvg-logo="https://nettvpro.live/uploads/18/1-1PS1213339246.jpg" group-title="卫视频道",三沙卫视
@@ -201,7 +200,7 @@ http://120.234.110.137/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1
 #EXTINF:-1 tvg-id="67" tvg-logo="https://www.nettvpro.live/uploads/18/1-1Q102224930P8.jpg" group-title="北京频道",卡酷动画
 http://111.13.42.230/PLTV/88888888/224/3221226558/1.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-logo="https://nettvpro.live/uploads/19/1-1Z51122051RT.jpg" group-title="北京频道",北京纪实
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225944/index.m3u8
+http://111.20.33.70/TVOD/88888893/224/3221226232/index.m3u8
 #EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="https://nettvpro.live/uploads/19/1-1Z42Q24129621.jpg" group-title="北京频道",北京文艺
 http://111.13.42.238/PLTV/88888888/224/3221226440/1.m3u8
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://nettvpro.live/uploads/19/1-1Z42Q2433X35.jpg" group-title="北京频道",北京科教
@@ -610,4 +609,3 @@ http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P602154AA34.jpg" group-title="港澳台",耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P602110311945.jpg" group-title="港澳台",[V]音乐台
-
